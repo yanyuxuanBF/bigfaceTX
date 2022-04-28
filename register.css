@@ -26,10 +26,10 @@
 	}
 	div{
 		border:none;
-		background:white;
+		background:rgb(255, 255, 255,0.5);
 		border-radius:20px;
-		width: 600px;
-		margin: auto;
+		width:600px;
+		margin:auto;
 		;
 	}
 p{
