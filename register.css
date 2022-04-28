@@ -2,26 +2,27 @@
 	h1{
 		font-family:"Ghastly Panic";
 		text-align:center;
-		font-size:2em;
+		font-size:5em;
 		}
 	
 	input{
-		font-family:"Ghastly Panic";
+		
 		height:50px;
 		width:550px;
 		border-radius:5px;
 		background-color:silver;
 		border-style:none;
-	font-size:2em;
+	
 	}
 	form{
-		font-family:"Ghastly Panic";
+		
 		width: 550px;
 		margin-left: 20px;
 		
 	}
 	body{
-		background:slategray;
+		background-image:url(ec229b8f53443ada57cad7f05712edfa.jpeg);
+		background-size: cover;
 	}
 	div{
 		border:none;
@@ -29,11 +30,10 @@
 		border-radius:20px;
 		width: 600px;
 		margin: auto;
-		font-size:2em;
-		font-family:"Ghastly Panic";
+		;
 	}
 p{
-		font-family:"Ghastly Panic";
+		font-family:"Segoe Print";
 		text-align:center;
 		
 		}
