@@ -1,0 +1,39 @@
+
+	h1{
+		font-family:"Ghastly Panic";
+		text-align:center;
+		font-size:2em;
+		}
+	
+	input{
+		font-family:"Ghastly Panic";
+		height:50px;
+		width:550px;
+		border-radius:5px;
+		background-color:silver;
+		border-style:none;
+	font-size:2em;
+	}
+	form{
+		font-family:"Ghastly Panic";
+		width: 550px;
+		margin-left: 20px;
+		
+	}
+	body{
+		background:slategray;
+	}
+	div{
+		border:none;
+		background:white;
+		border-radius:20px;
+		width: 600px;
+		margin: auto;
+		font-size:2em;
+		font-family:"Ghastly Panic";
+	}
+p{
+		font-family:"Ghastly Panic";
+		text-align:center;
+		
+		}
