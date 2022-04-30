@@ -1,6 +1,7 @@
 
 	h1{
 		font-family:"Ghastly Panic";
+		src: "Ghastly Panic.ttf";
 		text-align:center;
 		font-size:5em;
 		}
@@ -16,8 +17,8 @@
 	}
 	form{
 		
-		width: 550px;
-		margin-left: 20px;
+		
+		margin-left:20px;
 		
 	}
 	body{
