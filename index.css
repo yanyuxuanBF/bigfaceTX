@@ -1,0 +1,17 @@
+body{
+    background-image:url(74c67648a334deb5d95afc84ccd959dc.jpeg);
+    background-size: cover;
+}
+.card-body{
+    background-color: rgba(56, 13, 13, 0.74);
+}
+.card-title{
+    color:white;
+}
+.card-text{
+    color:white;
+}
+h1{
+    text-align:center;
+    color:white;
+}

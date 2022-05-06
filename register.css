@@ -13,7 +13,7 @@
 		border-radius:5px;
 		background-color:silver;
 		border-style:none;
-	
+		outline-color: rgb(128, 0, 0);
 	}
 	form{
 		
